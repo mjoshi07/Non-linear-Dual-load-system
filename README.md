@@ -27,22 +27,22 @@ Read the problem statement in detail [here](https://github.com/mjoshi07/Non-line
 * <img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/linearized_state_space.png" width="500"/>
 
 * Initial condition response for open loop and closed loop system is shown below:
-* <img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/open_loop.png" width="400" height="200"/> <img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/closed_loop.png" width="400" height="200"/>
+* <img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/open_loop.png" width="300" height="200"/> <img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/closed_loop.png" width="300" height="200"/>
 
 * For the original non linear system, initial state response is shown below:
 * <img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/state_response_non_linear.png" width="500"/>
 
 * Initial and Step response for the output vector - x(t) using Luenberger observer is shown below:
-<img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/initial_response_case1.png" width="400" height="200"/> <img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/step_response_case1.png" width="400" height="200"/>
+<img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/initial_response_case1.png" width="300" height="200"/> <img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/step_response_case1.png" width="300" height="200"/>
 
 * Initial and Step response for the output vector - [x(t),𝜃2(t)]  using Luenberger observer is shown below:
-<img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/initial_response_case2.png" width="400" height="200"/> <img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/step_response_case2.png" width="400" height="200"/>
+<img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/initial_response_case2.png" width="300" height="200"/> <img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/step_response_case2.png" width="300" height="200"/>
 
 * Initial and Step response for the output vector - [x(t),𝜃1(t),𝜃2(t)]  using Luenberger observer is shown below:
-<img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/initial_response_case3.png" width="400" height="200"/> <img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/step_response_case3.png" width="400" height="200"/>
+<img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/initial_response_case3.png" width="300" height="200"/> <img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/step_response_case3.png" width="300" height="200"/>
 
 * Intial and Step reponse for the smallest output vector - x(t) using output feedback controller and LQG method
-<img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/LQG_initial_linear.png" width="400" height="200"/> <img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/LQG_step_linear.png" width="400" height="200"/>
+<img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/LQG_initial_linear.png" width="300" height="200"/> <img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/LQG_step_linear.png" width="300" height="200"/>
 
 * Initial state response for the closed loop feedback controller is shown below:
 * <img src="https://github.com/mjoshi07/Non-linear-Dual-load-system/blob/main/data/output/state_response_LQG_non_linear.png" width="500"/>
